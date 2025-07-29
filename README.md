@@ -1,0 +1,1 @@
+If you use ScratchOS, you need an product key to verify its yours. So, go to this website by double clicking on it, it should be titled "Website.html", then click generate code. A random key will be created, copy and paste this to the dialog box in the ScratchOS seutp screen.
